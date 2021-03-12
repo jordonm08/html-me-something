@@ -47,9 +47,14 @@ table {
 	border-spacing: 0;
 }
 
+body {
+	background-image: url(https://www.canva.com/design/DAEYf5yjYqI/78YhzhGfinUOhQWNV9ymrA/view?utm_content=DAEYf5yjYqI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton);
+}
+
 div {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     text-align: center;
+	word-spacing: 1px;
     margin-top: 2%;
     margin-bottom: 2%;
     margin-left: 10%;
@@ -62,6 +67,24 @@ div {
 }
 
 .fancy {
-    padding: 1%;
+    margin: 5px;
+	padding: .2%;
     font-weight: lighter;
+}
+
+img {
+	margin: 10px;
+}
+
+article {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+h3 {
+	padding: 10px;
+}
+
+h4 {
+	margin-top: 50px;
 }
